@@ -37,3 +37,7 @@ git clone https://github.com/skills/communicate-using-markdown
 ```js
 var myVar = "Hello, world!";
 ```
+
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="left">
